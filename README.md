@@ -1,6 +1,6 @@
 # Javascript RATING
 
-![Javascript RATING](https://github.com/dianavile/Rating/blob/main/assets/images/Rating.PNG)
+![Javascript RATING](https://github.com/dianavile/HeartRating/blob/main/images/Rating.PNG)
 
 ## METHOD
 
