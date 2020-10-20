@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+body {
+    min-height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.hearts {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.material-icons {
+    align-self: center;
+    font-size: 6rem;
+    color: #DD9ADD;
+}
+
+.material_hover {
+    color: #FF0000;
+}
