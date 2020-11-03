@@ -12,6 +12,9 @@
 - 5. If another icon is clicked, the colors must be updated correctly.
      Also, if the user clicks out from the icon area, all must be deselected.
 
+### CODESANDBOX 
+-[CodeSandbox](https://codesandbox.io/s/kind-gagarin-bku1e)
+
 ### RESOURCES
 
 - [Learn CSS](https://www.codecademy.com/learn/learn-css)
